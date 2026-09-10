@@ -1,4 +1,4 @@
-<img width="310" height="186" alt="image" src="https://github.com/user-attachments/assets/040d2f97-649f-442a-a901-451dc1cae78a" /><img width="315" height="235" alt="image" src="https://github.com/user-attachments/assets/7f1b43ea-0b4b-42e3-b2aa-762057e44916" /><img width="951" height="1034" alt="image" src="https://github.com/user-attachments/assets/b4896d4e-99c7-4303-aa5a-d82ab0dfb8f4" /># AutoClickerPro
+AutoClickerPro
 По моему мнению, нормальная альтернатива устаревшему во всем AutoClicker OP, и другим вариантам. 
 
 Автокликер для Windows: интервалы, разброс, умный клик по цвету, макросы, профили, оверлей, горячие клавиши.
